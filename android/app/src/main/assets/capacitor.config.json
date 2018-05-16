@@ -1,0 +1,6 @@
+{
+  "appId": "es.test.capture",
+  "appName": "capture",
+  "bundledWebRuntime": false,
+  "webDir": "www"
+}
